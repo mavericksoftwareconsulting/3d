@@ -1,12 +1,12 @@
 # Ames 3D Printers
 
-## D-Bot
+## OctoPrint
 
-### Octoprint:
+` Username: User` <br>
+`Password: 3DOct0!!`
+
+#### D-Bot:
 > <http://192.168.220.137>
 
-
-## Prusia i3 (IIIP)
-
-### Octoprint:
+#### Prusia i3 (IIIP):
 > <http://192.168.220.130/>
